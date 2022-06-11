@@ -4,7 +4,7 @@
 
 ```
 <repository>
-    <id>ospace-snapshot</id>
-    <url>https://github.com/ospace/repository/tree/master/maven</url>
+    <id>ospace</id>
+    <url>https://github.com/ospace/repository/raw/master/maven</url>
 </repository>
 ```
